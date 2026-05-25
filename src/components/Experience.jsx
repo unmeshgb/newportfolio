@@ -234,7 +234,7 @@ const Experience = () => {
           {/* Certificate Badge */}
           <motion.div variants={itemVariants} className="mt-8 text-center">
             <a
-              href="https://drive.google.com/file/d/1n1q-HG3-iIccwDus5Zvp3Dbj41iKUePl/view?usp=sharing"
+              href="https://drive.google.com/file/d/1me60Vjqqq4BmnjanLcJrKSfQYjAcRdGm/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-blue-800 text-white font-semibold rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
