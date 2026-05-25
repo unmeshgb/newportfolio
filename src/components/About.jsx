@@ -78,7 +78,7 @@ const About = () => {
                   <span className="font-semibold text-purple-600 dark:text-purple-400">
                     Software Engineering Intern
                   </span>{" "}
-                  at AeroseInc (AEROBO Cloud) in Tokyo, Japan (Remote). In my current role, I engineered the "Video Calculation Screen" for AEROBO Cloud, integrating Go backend APIs and request payload mapping, which reduced failed job submissions by 25% during development and testing.
+                  at AeroseInc (AEROBO Cloud) in Tokyo, Japan (Remote). In my intern, I engineered the "Video Calculation Screen" for AEROBO Cloud, integrating Go backend APIs and request payload mapping, which reduced failed job submissions by 25% during development and testing.
                 </p>
                 <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
                   My technical expertise spans{" "}
@@ -99,12 +99,7 @@ const About = () => {
                   </span>{" "}
                   with recent achievements including 23rd place in Starters 189 and 37th in Starters 187. My LeetCode rating is{" "}
                   <span className="font-semibold text-orange-600 dark:text-orange-400">1822</span>{" "}
-                  as a Knight. Additionally, I qualified for the prestigious IMO Stage 2 and earned the NTSE Scholarship by NCERT.
-                  <span className="font-semibold text-blue-600 dark:text-blue-400">
-                    1822 places me in the top 6.8%
-                  </span>{" "}
-                  of global performers (47,014 / 713,591). I have solved over 2000 problems across various platforms and was ranked among the top 500 math students nationally, qualifying for the{" "}
-                  <span className="font-semibold">Indian Mathematical Olympiad (IMO) Stage 2</span>.
+                  as a Knight.
                 </p>
               </div>
 
